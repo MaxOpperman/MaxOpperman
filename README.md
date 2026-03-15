@@ -46,12 +46,10 @@ I'm a software developer who loves building things — from research tooling to 
 | [spelwijsheid](https://github.com/MaxOpperman/spelwijsheid) | Webapp for solving and creating puzzles (with AI)| Svelte, TypeScript, Docker |
 | [Lehmer](https://github.com/MaxOpperman/Lehmer) | Graduation project — combinatorics & path generation | Python, React, Docker |
 | [SET-Seminar](https://github.com/MaxOpperman/SET-Seminar) | Software Engineering & Technology seminar research project | Python |
+| [Advent of Code 2025](https://github.com/MaxOpperman/advent-of-code-2025) | December daily coding challenges | TypeScript |
+| [Advent of Code 2024](https://github.com/MaxOpperman/advent-of-code-2024) | December daily coding challenges | Python |
 
 ## 📫 Get in touch
 
 - 🌐 Website: [maxopperman.nl](https://maxopperman.nl/)
-- 💼 GitHub: [@MaxOpperman](https://github.com/MaxOpperman)
-
----
-
-⚡ *Fun fact: I sometimes contribute to open source projects!*
+- 💼 LinkedIn: [in/max-opperman](https://www.linkedin.com/in/max-opperman/)
